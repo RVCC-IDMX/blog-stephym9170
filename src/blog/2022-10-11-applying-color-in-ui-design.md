@@ -21,7 +21,7 @@ Color
 
 When it comes to color in CSS you should already be familiar with adding color using hex code, for example:
 
-\`\``hex code
+\`\``html
 
 h1 {
 
@@ -33,7 +33,7 @@ h1 {
 
 You may have also used rgb (red, green, blue), which is similar to the format of the color function you should use when applying color in UI design. When applying color in UI Design it is best to use the hsl (Hue, Saturation, and Light) function. An example of the coding for hsl is:
 
-\`\``hsl
+\`\``html
 
 :root {
 
@@ -48,8 +48,6 @@ You may have also used rgb (red, green, blue), which is similar to the format of
 \--blue-500: 210 79% 95%;
 
 }
-
-
 
 h1{
 
@@ -70,7 +68,5 @@ Tutorial
 Conclusion
 
 Again, you should already be familiar with both html and css before applying color in UI design and even completing the tutorial mentioned above. Applying color in UI design is not as hard as it seems but it is very tedious as is all code so you want to be very careful and always have what you are applying the actual project at all times so you can see the changes being made step by step. From what I have experienced, I find using the hsl function for projects, whether you are building an app or a site helps not only to help it look pretty but to also provide more balance and contrast to the page.
-
-
 
 <!--EndFragment-->
