@@ -21,7 +21,7 @@ Color
 
 When it comes to color in CSS you should already be familiar with adding color using hex code, for example:
 
-\`\``html
+```html
 
 h1 {
 
@@ -29,41 +29,36 @@ h1 {
 
 }
 
-\`\``
+```
 
 You may have also used rgb (red, green, blue), which is similar to the format of the color function you should use when applying color in UI design. When applying color in UI Design it is best to use the hsl (Hue, Saturation, and Light) function. An example of the coding for hsl is:
 
-\`\``html
-
+```html
 :root {
 
-\--blue-100: 210 79% 15%;
+--blue-100: 210 79% 15%;
 
-\--blue-200: 210 79% 35%;
+--blue-200: 210 79% 35%;
 
-\--blue-300: 210 79% 55%;
+--blue-300: 210 79% 55%;
 
-\--blue-400: 210 79% 75%;
+--blue-400: 210 79% 75%;
 
-\--blue-500: 210 79% 95%;
-
+--blue-500: 210 79% 95%;
 }
 
-h1{
-
- color: hsl(var(--gray-200));
-
+h1 {
+  color: hsl(var(--gray-200));
 }
-
-\`\``
+```
 
 HSL (Hue, Saturation, Lightness)
 
-According to \[web.dev](<https://web.dev/learn/css/color/>) hue describes the value on the color wheel, saturation is the vibrancy of the hue chosen, and lightness is the amount of black and white added. What this then means is that the number that you use for hue is the origin of the color you are going to use. When trying to find the hsl of a color, you can visit this website that will let you choose the color and provide you with the hsl of that color \[color hsl](<https://coolors.co/>) 
+According to [web.dev](<https://web.dev/learn/css/color/>) hue describes the value on the color wheel, saturation is the vibrancy of the hue chosen, and lightness is the amount of black and white added. What this then means is that the number that you use for hue is the origin of the color you are going to use. When trying to find the hsl of a color, you can visit this website that will let you choose the color and provide you with the hsl of that color [color hsl](<https://coolors.co/>) 
 
 Tutorial
 
- You should definitely play around with this on CodePen, more specifically you should fork George’s code pen as it can be found here \[George’s codepen] (<https://georgefrancis.dev/writing/a-beginners-guide-to-applying-color-in-ui-design/>). 
+ You should definitely play around with this on CodePen, more specifically you should fork George’s code pen as it can be found here [George’s codepen] (<https://georgefrancis.dev/writing/a-beginners-guide-to-applying-color-in-ui-design/>). 
 
 Conclusion
 
