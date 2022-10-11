@@ -1,5 +1,5 @@
 ---
-title: Applying Color in UI Design
+title: Apply That Color
 author: Stephanie Mayers
 description: This article is about how you apply color in UI design
 date: 2022-10-10T23:06:53.023Z
