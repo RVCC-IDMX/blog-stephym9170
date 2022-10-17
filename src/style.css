@@ -241,8 +241,18 @@ header,
   flex-shrink: 0;
 }
 
+.logo svg {
+  width: 3rem;
+  height: 3rem;
+}
+
+.dark svg {
+  width: 2rem;
+  height: 2rem;
+}
+
 .site-footer {
-  --logo-color: currentColor;
+  --logo-color: green;
   padding: 2em 0;
   color: var(--clr-neutral-100);
   background-color: var(--clr-primary-500);
