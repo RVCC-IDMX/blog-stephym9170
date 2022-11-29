@@ -252,10 +252,10 @@ header,
 }
 
 .site-footer {
-  --logo-color: green;
+  --logo-color: rgb(0, 30, 128);
   padding: 2em 0;
   color: var(--clr-neutral-100);
-  background-color: var(--clr-primary-500);
+  background-color: rgb(0, 89, 255);
   text-align: center;
 }
 
