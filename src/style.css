@@ -214,7 +214,7 @@ section,
 
 .nav-list a:focus,
 .nav-list a:hover {
-  color: var(--clr-primary-400);
+  color: var(--clr-neutral-700);
   text-decoration: underline;
 }
 
@@ -383,7 +383,7 @@ header,
 }
 
 .btn:focus {
-  outline: 0.125em solid var(--clr-primary-400);
+  outline: 0.125em solid var(--clr-neutral-700);
   outline-offset: 0.25em;
 }
 
@@ -395,8 +395,8 @@ header,
 }
 .btn--primary:hover,
 .btn--primary:focus {
-  background: var(--clr-primary-500);
-  border-color: var(--clr-primary-500);
+  background: var(--clr-neutral-700);
+  border-color: var(--clr-neutral-700);
 }
 
 .btn--neutral {
