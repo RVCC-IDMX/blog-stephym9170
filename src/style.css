@@ -35,9 +35,13 @@
 }
 
 /* //////////////////////
-  RESET - source: https://piccalil.li/blog/a-modern-css-reset
-  /////////////////////// */
-
+ /*Fonts Reset*/
+@font-face {
+font-family: "RobotoCondensed";
+src: url("/assets/fonts/RobotoCondensed-Regular.ttf");
+font-style: normal;
+font-weight: 300 800;
+}
 /* Box sizing rules */
 *,
 *::before,
