@@ -178,7 +178,7 @@ section,
 
 .article-title,
 .section-title {
-  color: var(--clr-neutral-700);
+  color: var(--clr-neutral-900);
 }
 
 .article-title {
@@ -355,7 +355,7 @@ header,
 
 .snippet__title a:hover,
 .snippet__title a:focus {
-  color: var(--clr-neutral-700);
+  color: var(--clr-neutral-900);
 }
 
 @media (min-width: 45em) {
@@ -383,7 +383,7 @@ header,
 }
 
 .btn:focus {
-  outline: 0.125em solid var(--clr-neutral-700);
+  outline: 0.125em solid var(--clr-neutral-900);
   outline-offset: 0.25em;
 }
 
@@ -391,12 +391,12 @@ header,
   background: rgb(87, 0, 128);
   color: var(--clr-neutral-100);
   font-weight: var(--fw-700);
-  border: 2px solid var(--clr-primary-400);
+  border: 2px solid rgb(192, 151, 211);
 }
 .btn--primary:hover,
 .btn--primary:focus {
-  background: var(--clr-neutral-700);
-  border-color: var(--clr-neutral-700);
+  background: var(--clr-neutral-900);
+  border-color: var(--clr-neutral-900);
 }
 
 .btn--neutral {
