@@ -214,7 +214,7 @@ section,
 
 .nav-list a:focus,
 .nav-list a:hover {
-  color: var(--clr-neutral-700);
+  color: var(--clr-neutral-900);
   text-decoration: underline;
 }
 
