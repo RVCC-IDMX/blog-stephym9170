@@ -34,7 +34,7 @@
   }
 }
 
-/* //////////////////////
+
  /*Fonts Reset*/
 @font-face {
 font-family: "RobotoCondensed";
@@ -42,6 +42,9 @@ src: url("/assets/fonts/RobotoCondensed-Regular.ttf");
 font-style: normal;
 font-weight: 300 800;
 }
+
+/* //////////////////////
+RESET - source: https://piccalil.li/blog/a-modern-css-reset
 /* Box sizing rules */
 *,
 *::before,
